@@ -1,6 +1,13 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\HomeController;
+use App\Http\AutomovilController;
+use App\Http\LugarController;
+use App\Http\RentaController;
+use App\Http\SucursalController;
+use App\Http\UsuarioController;
+
 
 /*
 |--------------------------------------------------------------------------
